@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+}
+#sec{
+	text-align:center;	
+	
+}
+#tables{
+    margin: 0 auto;
+	width:600px;
+	
+}	
+.ex1{
+	text-align:left;
+}
+.ex2{
+	text-align:right;
+}
+#tables2{
+	margin: 0 auto;
+	width:600px;
+}
+td{ padding:10px;
+  }
+#tab2{
+	margin: 0 auto;
+	width:600px;
+	border:1px solid black;
+}
+table td{
+	border:1px solid black;
+}
+
+	
+
+
+ 
+
+
