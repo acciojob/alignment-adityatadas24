@@ -2,8 +2,11 @@
 *{
 	margin:0px;
 }
+#heading{
+	text-align:center;
+}
 .middle{
-	text-align:center;	
+	
 	
 }
 #table-1{
