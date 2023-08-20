@@ -11,10 +11,13 @@
 	width:600px;
 	
 }	
-.ex1{
+#t11{
 	text-align:left;
 }
-.ex2{
+#t12{
+	text-align:center;
+}
+#t13{
 	text-align:right;
 }
 #table-2{
